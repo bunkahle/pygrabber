@@ -9,6 +9,13 @@ https://github.com/andreaschiavinato/python_grabber
 
 Modifications made to work under Python 2 and 3.
 
+Installation
+============
+
+Install it with 
+
+	setup.py install
+
 Introduction
 ============
 
